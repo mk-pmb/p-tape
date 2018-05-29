@@ -1,0 +1,28 @@
+{ "name": "p-tape",
+  "version": "3.0.0",
+  "description": "Alias module for \"tape-promise/tape\", to make it easier to use with my favorite eslint rules. Also depends on tape so you don't have to.",
+  "keywords": [ "tape" ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/p-tape/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/p-tape.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/p-tape/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "alias.js",
+
+  "dependencies": {
+    "tape": "^4.9.0",
+    "tape-promise": "^3.0.0"
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
