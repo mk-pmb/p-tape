@@ -1,5 +1,5 @@
 { "name": "p-tape",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Alias module for \"tape-promise/tape\", to make it easier to use with my favorite eslint rules. Also depends on tape so you don't have to.",
   "keywords": [ "tape" ],
 
@@ -19,7 +19,7 @@
   "main": "alias.js",
 
   "dependencies": {
-    "tape": "^4.9.0",
+    "tape": "^5.0.1",
     "tape-promise": "^4.0.0"
   },
 
